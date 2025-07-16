@@ -1,24 +1,23 @@
-# 🧑‍💻💡 Olá, eu sou o Gabriel Olegario!
+# 🤖 Hello, I'm Gabriel Olegario!
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Programmer coding animated gif"/>
 </p>
 
 
+---
+
+## About me
+
+- 👾 Junior Fullstack Developer at FuzzyLab
+- 🎓 Undergraduate in Computer Engineering at Universidade Veiga de Almeida
+- 🖥️ Studying **Python**, **Artificial Intelligence**, **Django**, and software development
+- 🚀 Exploring the creation of autonomous agents and artificial intelligence
+- ✨ Obsessed with technology, innovation, and automation
 
 ---
 
-## Sobre mim
-
-- 🎓 Desenvolvedor Fullstack Junior pela FuzzyLab
-- 🎓 Graduando em Enganharia da computação pela Universidade Veiga de Almeida.
-- 💻 Estudando **Python**, **Artificial Intelligence**, **Django** e desenvolvimento de software.
-- 🚀 Explorando a criação de agentes autônomos e inteligência artificial
-- ✨ Obssecado por tecnologia, inovação e automatização
-
----
-
-## 🛠️ Language and tools
+## 🛠️ Languages and tools
 
 <p align="left">
   <a href="https://www.docker.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/></a>
@@ -34,21 +33,14 @@
 </p>
 
 ---
-## 📫 Como me encontrar
+
+## 📫 How to contact me
 
 - [LinkedIn](www.linkedin.com/in/gabriel-olegario)
 - [Email](mailto:gabrielolegario@gmail.com)
 
 ---
 
-> “A criatividade é a inteligência se divertindo.” – Albert Einstein
+> O conhecimento é a única riqueza que ninguém pode tirar de você." - Paulo Coelho 
 
----
-
-*Personalize este README para mostrar quem você é!* 
-
-> “A criatividade é a inteligência se divertindo.” – Albert Einstein
-
----
-
-*Personalize este README para mostrar quem você é!* 
+--- 
