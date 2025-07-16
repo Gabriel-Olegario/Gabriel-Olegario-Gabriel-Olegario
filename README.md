@@ -36,8 +36,8 @@
 
 ## 📫 How to contact me
 
-- [LinkedIn](www.linkedin.com/in/gabriel-olegario)
-- [Email](mailto:gabrielolegario@gmail.com)
+- LinkedIn: [www.linkedin.com/in/gabriel-olegario]
+- Email: [gabrielolegario@gmail.com]
 
 ---
 
